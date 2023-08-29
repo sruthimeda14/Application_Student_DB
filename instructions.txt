@@ -1,0 +1,11 @@
+1. Download and install XAMPP
+2. C:\xampp folder will be created
+3. place your code files registrationForm.php and getData.php in htdocs folder under C:\xampp
+4. Now start Apache and MySQL in XAMPP
+5. http://localhost/registrationForm.php run the registrationForm.php file using the given url.
+6. Form will be displayed.
+7. Enter the required details and submit the form.
+8. If its first time, new database and tables will be created. This can be verified using http://localhost/phpmyadmin/index.php
+9. In case, if the database and tables are already existing ones, we can verify using the same link mentioned above.
+
+NOTE: in case you are facing any CORS issue, please make sure you add the CORS extension to chrome, from the extensions market place.
